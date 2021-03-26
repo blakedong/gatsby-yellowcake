@@ -1,30 +1,38 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Live Well. Be Well. Feel Well.
+featuredImage: https://ucarecdn.com/aae889a8-1fb0-4faa-9dfe-a82f87ec91fb/
+subtitle: Family Health & Wellness incorporates herbal wisdom, integrative
+  nutrition, and western medicine to create a healing plan that suits you and
+  your body’s unique needs. From pediatrics to menopause, we offer a holistic
+  approach to health care for the whole family.
+accordion:
+  - title: "WESTERN HEALTH CARE "
+    content: We believe in modern medicine and pharmaceuticals, but we also believe
+      in your body’s natural desire & ability to heal. When needed, we prescribe
+      pharmaceuticals & balance your system with holistic, integrative
+      therapies. We respect your right to choose your healing modality & are
+      happy to use western practice, herbal & homeopathic remedies, or
+      integrative therapies.
+  - title: "INTEGRATIVE NUTRITION "
+    content: "Food is medicine. Vitamin & mineral deficiency is an epidemic in
+      modern diets. Our lifestyles and modern farming practices have led to a
+      host of health complications related to nutrient deficiencies from fatigue
+      & insomnia to more serious chronic issues. Nutritional medicine &
+      supplements are frequently added to therapies offering your body what it
+      needs to feel well. "
+  - title: "HERBS & HOMEOPATHY "
+    content: The ancient wisdom of herbal medicine has been passed down through
+      generations of healers. We harness the power of herbs to treat acute or
+      chronic conditions & prescribe adaptogenic herbs to strengthen your body’s
+      natural immunity. Homeopathy is based in addressing the mind-body-spirit
+      connection & is an excellent therapy to add to your healing journey.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: "Family Health & Wellness incorporates herbal wisdom, integrative
+    nutrition, and western medicine to create a healing plan that suits you and
+    your body’s unique needs. From pediatrics to menopause, we offer a holistic
+    approach to health care for the whole family. "
+  title: "WESTERN HEALTH CARE "
 ---
-
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
-
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+We believe in modern medicine and pharmaceuticals, but we also believe in your body’s natural desire & ability to heal. When needed, we prescribe pharmaceuticals & balance your system with holistic, integrative therapies. We respect your right to choose your healing modality & are happy to use western practice, herbal & homeopathic remedies, or integrative therapies.
