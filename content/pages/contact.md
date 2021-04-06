@@ -8,8 +8,8 @@ address: 100 Technology Drive, Austin, TX 78737
 phone: 512-783-8066
 email: sales@rakehealth.com
 locations:
-  - lat: "-27.9654732"
-    lng: "153.2432449"
+  - lat: "30.266666"
+    lng: "-97.733330."
     mapLink: ""
 meta:
   description: This is a meta description.
